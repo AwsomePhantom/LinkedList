@@ -1,14 +1,4 @@
 
-/*
- *
- *  Name: Rabinul Islam
- *  ID: 011213010
- *  Course Name: Data Structure And Algorithms Lab
- *  Course Code: CSE 2216
- *  Section: B
- *
- */
-
 #ifndef DNODE_H
 #define DNODE_H
 

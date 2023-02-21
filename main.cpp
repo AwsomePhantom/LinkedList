@@ -1,12 +1,3 @@
-/*
- *
- *  Name: Rabinul Islam
- *  ID: 011213010
- *  Course Name: Data Structure And Algorithms Lab
- *  Course Code: CSE 2216
- *  Section: B
- *
- */
 
 #include <bits/stdc++.h>
 #include "doublelist.cpp"
